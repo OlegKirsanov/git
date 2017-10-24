@@ -45,10 +45,6 @@ $ git push -u origin master
 $ git checkout -b week_1
 ```
 Выполняете ТЗ, и сохраняете изменения ( п. 1.2 этой инструкции )
-You can also:
-  - Import and save files from GitHub, Dropbox, Google Drive and One Drive
-  - Drag and drop markdown and HTML files into Dillinger
-  - Export documents as Markdown, HTML and PDF
 
 # 3. Проверка работы
 ![Иллюстрация к проекту](https://1.downloader.disk.yandex.ru/disk/a7242c10413a86b1de7f18e9d6eaa50cf5854638e43843692be5cae8331b35e5/59efa515/ePBJmrC14u0gjjVo9JgMX-owpO_fBWIAplNwYfy8vgvNDWiGtc_mzQ242G_W81FBzL9iWEmnA2ledZwo7zRjcg%3D%3D?uid=0&filename=2017-10-24_19-39-01.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&fsize=21365&hid=dd3e2fd904b6841b8e56d5fa9bbd97dd&media_type=image&tknv=v2&etag=8a718992619a1ffe9bb418e226d34eac)
